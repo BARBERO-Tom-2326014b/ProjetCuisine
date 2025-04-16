@@ -1,0 +1,51 @@
+{
+    "debut": "2025-04-21",
+    "fin": "2025-04-25",
+    "jours": {
+        "lundi": {
+            "horsdoeuvre": "Hors d'oeuvre",
+            "plat1": "Bouchée a la reine",
+            "plat2": "omelette aux légumes",
+            "accompagnement1": "riz",
+            "accompagnement2": "tomates provençale",
+            "fromage": "Fromage ou laitage",
+            "dessert": "Desserts"
+        },
+        "mardi": {
+            "horsdoeuvre": "Hors d'oeuvre",
+            "plat1": "Poulet",
+            "plat2": "Poisson panés",
+            "accompagnement1": "Pates",
+            "accompagnement2": "Carotte",
+            "fromage": "Fromage ou laitage",
+            "dessert": "Desserts"
+        },
+        "mercredi": {
+            "horsdoeuvre": "Hors d'oeuvre",
+            "plat1": "Sauté de porc",
+            "plat2": "Coquille de poisson",
+            "accompagnement1": "PDT vapeur",
+            "accompagnement2": "Haricot vert persillés",
+            "fromage": "Fromage ou laitage",
+            "dessert": "Desserts"
+        },
+        "jeudi": {
+            "horsdoeuvre": "Hors d'oeuvre",
+            "plat1": "Chipo\/merguez",
+            "plat2": "Colin sce citron",
+            "accompagnement1": "Frites",
+            "accompagnement2": "Ratatouille",
+            "fromage": "Fromage ou laitage",
+            "dessert": "Desserts"
+        },
+        "vendredi": {
+            "horsdoeuvre": "Hors d'oeuvre",
+            "plat1": "Tenders maison",
+            "plat2": "Poisson aux poivrons",
+            "accompagnement1": "Haricot rouge\/Mais",
+            "accompagnement2": "Courgette rotis",
+            "fromage": "Fromage ou laitage",
+            "dessert": "Desserts"
+        }
+    }
+}

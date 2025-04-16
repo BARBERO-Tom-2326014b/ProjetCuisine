@@ -1,0 +1,51 @@
+{
+    "debut": "2025-04-14",
+    "fin": "2025-04-18",
+    "jours": {
+        "lundi": {
+            "horsdoeuvre": "",
+            "plat1": "",
+            "plat2": "",
+            "accompagnement1": "",
+            "accompagnement2": "",
+            "fromage": "",
+            "dessert": ""
+        },
+        "mardi": {
+            "horsdoeuvre": "",
+            "plat1": "",
+            "plat2": "",
+            "accompagnement1": "",
+            "accompagnement2": "",
+            "fromage": "",
+            "dessert": ""
+        },
+        "mercredi": {
+            "horsdoeuvre": "",
+            "plat1": "",
+            "plat2": "",
+            "accompagnement1": "",
+            "accompagnement2": "",
+            "fromage": "",
+            "dessert": ""
+        },
+        "jeudi": {
+            "horsdoeuvre": "",
+            "plat1": "",
+            "plat2": "",
+            "accompagnement1": "",
+            "accompagnement2": "",
+            "fromage": "",
+            "dessert": ""
+        },
+        "vendredi": {
+            "horsdoeuvre": "",
+            "plat1": "",
+            "plat2": "",
+            "accompagnement1": "",
+            "accompagnement2": "",
+            "fromage": "",
+            "dessert": ""
+        }
+    }
+}
